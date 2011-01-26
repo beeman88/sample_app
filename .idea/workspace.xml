@@ -24,10 +24,19 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" showNonProject="false" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="3" selection-start="374" selection-end="374" vertical-scroll-proportion="0.7591743">
+            <state line="23" column="3" selection-start="374" selection-end="374" vertical-scroll-proportion="-11.033334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.17201835">
               <folding />
             </state>
           </provider>
@@ -39,6 +48,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -317,7 +327,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="3" selection-start="374" selection-end="374" vertical-scroll-proportion="0.7591743">
+        <state line="23" column="3" selection-start="374" selection-end="374" vertical-scroll-proportion="-11.033334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.17201835">
           <folding />
         </state>
       </provider>
