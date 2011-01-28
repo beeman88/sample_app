@@ -2,12 +2,15 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
 
-gem 'mysql2'
+gem 'mysql2', '0.2.6'
 
-gem 'heroku'
+gem 'heroku', '1.17.10'
 
 group :development do
   gem 'rspec-rails', '2.3.0'
+  gem 'autotest', '4.4.6'
+  gem 'autotest-rails-pure', '4.1.2'
+  gem 'redgreen', '1.2.2'
 end
 
 group :test do
