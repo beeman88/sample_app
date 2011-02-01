@@ -1,10 +1,9 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
-
 gem 'mysql2', '0.2.6'
-
 gem 'heroku', '1.17.10'
+gem 'haml', '3.0.25'
 
 group :development do
   gem 'rspec-rails', '2.3.0'

@@ -24,6 +24,12 @@
     </requirement>
     <requirement>
       <requirement>
+        <dependency name="haml" version="3.0.25" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="heroku" version="1.17.10" bound="EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
