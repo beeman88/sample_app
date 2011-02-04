@@ -10,6 +10,7 @@ group :development do
   gem 'autotest', '4.4.6'
   gem 'autotest-rails-pure', '4.1.2'
   gem 'redgreen', '1.2.2'
+  gem 'annotate-models', '1.0.4'
 end
 
 group :test do
